@@ -6,10 +6,8 @@ body{
 }
 .box{
     width: 450px;
-    height: 800px;
-    
-    
-    margin: 0 auto;
+    height: 450px;   
+    margin: 7% auto;
     position: relative;
 }
 
@@ -171,7 +169,7 @@ body{
     position: relative;
     bottom: 139px;
     left: -91px;
-    border: 1px solid black;
+    
     border-radius: 50%;
 }
 
@@ -192,7 +190,7 @@ body{
     position: relative;
     bottom: 379px;
     left: 210px;
-    border: 1px solid black;
+    
     border-radius: 50%;
 }
 .leg{
@@ -208,7 +206,7 @@ body{
     width: 49%;
     height: 48px;
     background-color: #fff;
-    border: 1px solid black;
+    
     border-radius:35px 35px 92px 92px;
 float: left;
 }
@@ -216,7 +214,7 @@ float: left;
     width: 48%;
     height: 48px;
     background-color: #fff;
-    border: 1px solid black;
+    
     float: right;
     border-radius: 35px 35px 92px 92px;
 }
