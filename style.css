@@ -332,3 +332,10 @@ width: 65px;
     left: 75px;
     top: -306px;
 }
+
+@media (max-width:650px){
+    .box{
+        margin:auto;
+        margin-top:40%;
+    }   
+}
